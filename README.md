@@ -18,7 +18,7 @@
   <a href="https://www.npmjs.com/package/ngx-french-toast" style="margin: 20px 20px 20px 0;">
     <img src="https://raw.githubusercontent.com/thiagopg84/ngx-french-toast/master/projects/ngx-french-toast/logo.png" alt="ngx-french-toast logo"  height="134px" />
   </a>
-  <a href="https://www.npmjs.com/package/ngx-french-toast" style="margin: 20px;">
+  <a href="https://pet-retriever.netlify.app" style="margin: 20px;">
     <img src="https://pet-retriever.netlify.app/assets/images/svg/logo.svg" alt="pet-retriever logo" width="134px"/>
   </a>
 </div>
