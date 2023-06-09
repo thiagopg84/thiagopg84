@@ -12,8 +12,19 @@
 
 - 📫 How to reach me: **thiago2k9@gmail.com**
 
+<br>
+
+<div style="display: flex; justify-content: flex-start; align-items: center;">
+  <a href="https://www.npmjs.com/package/ngx-french-toast" style="margin: 20px 20px 20px 0;">
+    <img src="https://raw.githubusercontent.com/thiagopg84/ngx-french-toast/master/projects/ngx-french-toast/logo.png" alt="ngx-french-toast logo"  height="134px" />
+  </a>
+  <a href="https://www.npmjs.com/package/ngx-french-toast" style="margin: 20px;">
+    <img src="https://pet-retriever.netlify.app/assets/images/svg/logo.svg" alt="pet-retriever logo" width="134px"/>
+  </a>
+</div>
 
 <br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thiagoguterman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiagoguterman" height="30" width="40" /></a>
