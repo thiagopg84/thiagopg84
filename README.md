@@ -6,7 +6,7 @@
 
 - 🐕 I also created [pet-retriever](https://pet-retriever.netlify.app/), a hub for people who found/lost pets out there :)
 
-- 💬 I talk about **Angular, TypeScript, JavaScript, PWAs, Standalone Components, Lazy Loading, ServiceWorker, HTM5, CSS3, SCSS**
+- 💬 I talk about **Angular, TypeScript, JavaScript, PWAs, Standalone Components, Lazy Loading, ServiceWorker, HTML5, CSS3, SCSS**
 
 - 🖍️ I used to be a designer/art director but fell in love with web development
 
